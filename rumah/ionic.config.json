@@ -1,0 +1,7 @@
+{
+  "name": "rumah",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
